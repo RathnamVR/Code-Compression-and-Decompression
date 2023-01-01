@@ -1,7 +1,4 @@
-/* On my honor, I have
-neither given nor received unauthorized aid on this assignment */
-/* Index-180523F
-Name - Vidushika*/
+
 
 #include <iostream>
 #include <fstream>
