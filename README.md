@@ -12,3 +12,5 @@ ways of applying bitmasks to a 32-bit binary, always give preference to the scen
 ‘1’ for the bitmask pattern (e.g., 11 is preferred over 01). Please count the starting location of a mismatch
 from the leftmost (MSB) bit of the pattern – If the mismatch is at the MSB, Mismatch Location should
 be 00000.
+
+![alt text](https://github.com/RathnamVR/Weather-Dashboard-with-Warning-System/blob/main/images/weather.PNG?raw=true)
