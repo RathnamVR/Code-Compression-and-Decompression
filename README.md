@@ -35,3 +35,10 @@ The simulator is executed with the following command line. Parameters “1” an
 to indicate compression, and decompression, respectively.<br/> 
 • ./SIM 1 for compression<br/> 
 • ./SIM 2 for decompression<br/> 
+
+The input and output files are hard coded as follows:<br/> 
+1. Input file for your compression function: original.txt<br/> 
+2. Output produced by your compression function: cout.txt<br/> 
+3. Input file for your decompression function: compressed.txt<br/> 
+4. Output produced by your decompression function: dout.txt<br/> 
+
